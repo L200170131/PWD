@@ -1,0 +1,19 @@
+body {
+	background-image: url(gambar.jpg)}
+
+h2 {
+	font-family: comic sans ms;
+	text-align: center;
+	text-shadow: 3px 3px 3px aquamarine}
+
+table { 
+	width: 100%;
+	background-color: #D8F0DA;
+	border: 1px;
+	min-width: 100%;
+	position: relative;
+	opacity: 0.97;
+	background: transparent;
+}
+.td{
+	font-weight: bold}
