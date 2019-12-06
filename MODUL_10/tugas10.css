@@ -1,0 +1,15 @@
+body 
+{background-image: url('pubg.jpg');}
+h1 
+{font-family: comic sans ms;
+    background-color:orange;   
+}
+table 
+{background:greenyellow;}
+.td
+{font-weight: bold;}
+
+table, th, td {
+    border: 1px solid black;
+}
+   

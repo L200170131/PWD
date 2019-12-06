@@ -1,0 +1,23 @@
+ID
+{
+    display:block
+}
+
+NIM
+{
+    color:brown
+}
+
+Nama
+{
+    color:blue;
+    font-weight:bold;
+    font-size:20pt;
+    background-color:red
+}
+
+Kota
+{
+    font-family:verdana;
+    font-size:italic
+}

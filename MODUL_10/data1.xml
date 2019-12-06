@@ -1,0 +1,34 @@
+<?xml version='1.0'?>
+<?xml-stylesheet type='text/css' href='data2.css'?>
+<Mahasiswa>
+<ID>
+<NIM>L20080001</NIM>
+<Nama>Nobita</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+<ID>
+<NIM>L20080002</NIM>
+<Nama>Doraemon</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+<ID>
+<NIM>L20080003</NIM>
+<Nama>Shizuka</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+<ID>
+<NIM>L20080004</NIM>
+<Nama>Giant</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+<ID>
+<NIM>L20080005</NIM>
+<Nama>Suneo</Nama>
+<Kota>Solo</Kota>
+</ID>
+
+</Mahasiswa>
